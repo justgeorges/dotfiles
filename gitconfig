@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = george.arbanas@icloud.com
+	name = George Arbanas
